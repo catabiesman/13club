@@ -2,16 +2,16 @@
 # https://telar.org
 
 # Site Settings
-title: "Telar"
-description: "Telar (Spanish for 'loom') is a static site generator built on Jekyll that weaves together IIIF images, text, and layered contextual information into interactive digital narrative exhibitions. <a href='https://github.com/UCSB-AMPLab/telar'>Telar</a> is a project of <a href='https://neogranadina.org'>Neogranadina</a>, the <a href='https://ampl.clair.ucsb.edu/'>UCSB Archives, Memory, and Preservation Lab</a>, and the <a href='https://liberalarts.utexas.edu/history/'>UT Archives, Mapping, and Pedagogy Lab</a>."
-url: "https://catabiesman.github.io"
-baseurl: "/13club"
+title: "Masculinity and Humor in New York City's Thirteen Club"
+description: "On January 13th, 1882, thirteen men gathered in a New York City dining room, passed under a ladder to reach their seats, spilled salt (without tossing it over their shoulders), and sat down for a meal together to prove a point. The Thirteen Club, founded by Civil War veteran Captain William Fowler, was a deliberately provocative social organization dedicated to debunking superstition through ritualized defiance. Founded to “combat injurious superstitions, more particularly the belief that thirteen people sitting at the festive board entails death on one or more of the participants before the expiration of a year,” the Club attracted a wide-range of membership from prominent urban businessmen to a variety of government officials ranging from local judges to several US presidents.\n\nThe Thirteen Club wielded humor as a calculated instrument of social change, deploying satire and absurdist spectacle to expose what the logical fallacy of superstitious beliefs. "
+url: "https://catabiesman.github.io/13club"
+baseurl: "/telar"
 author: ""
-email: ""
-telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+email: "cbiesman-simons@ucsb.edu"
+telar_theme: "neogranadina"
 logo: ""
-telar_language: "en" # Options: "en" (English), "es" (Español)
-collection_mode: false # Set to true to show objects first with large thumbnails and stories below with small thumbnails (collection-first homepage)
+telar_language: en
+collection_mode: false
 
 # Story Interface Settings
 story_interface:
@@ -30,7 +30,7 @@ collection_interface:
 # Story Protection (optional)
 # Stories with protected=yes in project.csv will be encrypted.
 # Viewers need this key to unlock protected stories.
-story_key: "test"
+story_key: emotionsexam
 
 # Google Sheets Integration (optional)
 # Manage content via Google Sheets instead of editing CSV files directly.

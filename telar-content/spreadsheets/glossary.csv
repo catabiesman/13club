@@ -1,7 +1,56 @@
-term_id,title,definition
-id_término,titulo,definición
+term_id,title,definition,related_terms
+id_término,titulo,definición,términos_relacionados
 # Make it lower-case and avoid spaces.,# Please provide a title — this is required.,"Panel content: write text here, paste markdown, or the name of an .md file in /components/texts/glossary/ (the .md extension is required)"
 # Escríbelo en minúsculas y sin espacios.,# Incluye un título: este campo es obligatorio.,"Contenido del panel: escribe texto aquí, pega markdown, o indica un archivo archivo .md en /components/texts/glossary/ (la extensión .md es obligatoria)"
-telar,Telar,"Telar is minimal-computing framework for creating layered IIIF visual narratives for digital scholarship, public exhibitions, community storytelling, and classroom projects. Learn more at [Telar.org](https://telar.org)
+emotionology,Emotionology,"  This approach to the study of emotions in history posits that, ""all societies have emotional standards, even if they are sometimes largely unspoken"" (814).
 
-Telar es un marco de computación mínima para crear narrativas visuales con capas de texto e imágenes IIIF para humanidades digitales, exposiciones públicas y contextos educativos y comunitarios. Aprende más en [Telar.org](https://telar.org)"
+  In an 1985 article published in _The American Historical Review_, Peter and Carol Stearns introduced the concept of ""emotionology"" as a methodological tool for historians studying the affective dimensions of the past. They define the term as, ""the attitudes or standards that a society, or a definable group within a society, maintains toward basic emotions and their appropriate expression."" Their definition further extends to the ways that institutions reflect or encourage these attitudes in human conduct (813).
+
+  While the Stearns acknowledge that emotion involves a complex set of neurological, cognitive, and behavioral processes that are difficult for the historian to locate through historical sources, they contend that emotionology as method allows the historian to explore norms and prescriptions. 
+  What expressions of grief were appropriate for a funeral? How should one manage their anger in the workplace? These questions are answerable through historical evidence in ways that the inner experience of emotion are not, according to the Stearns.
+
+  By examining shifts in emotional standards over time, historians can illuminate broader transformations in social organization, gender relations, and institutional authority. The Stearns argue that all societies maintain emotional standards, whether spoken or implied, and that societies differ both in what those standards are, and in how or to what extent those standards are enforced. Indeed, they suggest that societies may enforce one standard--i.e., not laughing at the news of a loved one's death--with greater energy than another emotional standard--i.e., not laughing in class.
+
+  In his book _American Cool_, Peter Stearns put the above methodology into practice. He turned to prescriptive texts, such as etiquette manuals or family guidebooks, to explore how emotional standards in the US began to shift toward restraint in the early 20th century. 
+
+
+Peter Stearns and Carol Stearns, ""Emotionology: Clarifying the History of Emotions and Emotional Standards,"" _The American Historical Review_ 90.4 (1985): 813-836.
+Peter Stearns, _American Cool: Constructing a Twentieth-Century Emotional Style_ (NYU Press, 1994). ",
+emotional-communities,Emotional Communities,"  In her history of emotion in the early middle ages, Barbara Rosenwein defines emotional communities as ""groups in which people adhere to the same norms of emotional expression and value-or devalue-the same or related emotions. More than one emotional community may exist-indeed normally does exist-contemporaneously, and these communities may change over time"" (Rosenwein, 2). 
+
+  Emotional communities are social groupings at varying scales — families, guilds, monasteries, parishes, parliaments — with distinct systems of feeling. Those emotional communities may share assessments of what is valuable or harmful, recognize affective bonds, and collectively enforce norms governing which emotional expressions are expected, tolerated, or condemned. Rosenwein insists that individuals are not confined to a single emotional community; people move between overlapping communities, and even contradictory emotional values find their place.
+
+  This emphasis on plurality and internal contradiction distinguishes her framework from earlier models, including the Stearns' emotionology, which she criticizes for implying a single dominant emotional standard and for privileging the modern period at the expense of pre-modern complexity (Rosenwein, ""Worrying About Emotions in History,"" 825). By articulating the concept of emotional communities, Rosenwein seeks an analytic flexible enough to capture the diversity and simultaneity of affective norms across time, without subordinating that diversity to a uni-directional narrative. Furthermore, emotional communities allows historians to look beyond prescriptive guidebooks (a distinctly modern invention), to consider how historical actors articulated or evaluated their emotions in other types of historical records.
+
+Barbara H. Rosenwein, _Emotional Communities in the Early Middle Ages_ (Cornell, 2006). 
+Barbara H. Rosenwein, ""Worrying about Emotions in History,"" _The American Historical Review_ 107.3 (2002): 821-845.",
+emotives,Emotives,,
+affective-economies,Affective Economies,,
+emotional-practices,Emotional Practices,"  In her 2012 article ""Are Emotions a Kind of Practice?,"" Monique Scheer draws on Pierre Bourdieu's concept of _habitus_ to argue that emotions are not simply felt or expressed but _a bodily practice_.
+
+  Rather than treating emotions as inner states that precede social interactions, Scheer proposes that emotions themselves constitute a form of ""practical engagement with the world."" Emotions, in Scheer's account, are inseparable from the embodied, habituated practices through which it is produced and reproduced. She deploys Bourdieu's _habitus_ to emphasize that emotional practices are not universal or outside of time, but rather embedded in both ""bodily dispositions"" and ""cultural and historical specificity"" (193).
+
+  Her theory of emotional practices moves the analytical focus away from emotional standards as external regulators of pre-existing internal feelings, and toward embodied practices themselves as the very site at which emotion comes into being. She critiques other theories which prioritize cognitive analysis of emotion as detaching emotions from the body, and even rendering the body as 'ahistorical' rather than accounting for the ways in which the body itself is enmeshed within the socio-historical context it inhabits. In Scheer's model, emotional practices, ""are more fruitfully thought of as habits emerging where bodily capacities and cultural requirements meet"" (202). In other words, embodied practice and context each inform emotions, a shift from earlier cognitive theories which imagine emotions as primarily a response to external triggers or the expression of a pre-existing internal process.
+  
+
+  This is not to say that Scheer rejects the ideas of all other theories, but rather that she places them within a more expansive framework. She identifies four sub-genres of emotional practices: mobilizing, naming, communicating, and regulating. These categories do not reflect separate categories, but rather describe overlapping dimensions of how emotions are practiced.
+  
+
+**Mobilizing**: Scheer describes mobilizing emotional practices as those ""habits, rituals, and everyday pastimes that aid us in 
+achieving a certain emotional state."" These practices seek to evoke or modify feelings, and form part of the ""ongoing learning and maintaining of an emotional repertoire"" (209). Within the emotional practice approach, habits of mind and body alike inform the ""achieving, training, articulating, and modulating emotions for personal as well as social purposes"" (210).
+
+**Naming**: Scheer draws upon William Reddy's theory of _emotives_ to describe naming emotions as a kind of performance. ""Putting a name on our feelings is part and parcel of experiencing them,"" according to Scheer, and thus a kind of practice. Notably, she emphasizes that the context of this naming has important implications for bodily practice. For example, naming an emotion through writing in a private journal as opposed to naming an emotion in a social interaction affects the bodily aspect of emotion in distinct ways (212). In other words, emotives take on meaning through the socio-historical context in which they are deployed.
+
+**Communicating**: Scheer emphasizes communication as a key site of emotional practice, ""because people know that emotions do things in social contexts, they use them as means of exchange"" (214). This aspect of her theory suggests that the reception of a given emotional performance is as important at the expression of it.
+
+Communication relies on ""socially agreed-upon signs"" and therefore supports her argument for emotional practices as socially, culturally, and historically embedded in specific contexts. She further emphasizes communication as a ""multisensory"" process which involves ""reading emotion"" through both bodily gesture and verbal expression. This reading is, unsurprisingly, complex and may result in miscommunication (214-215).
+
+**Regulating**: This aspect of Scheer's most closely resembles other theories, such as Rosenwein's _emotional communities_ or the Stearns' _emotional standards_, however she emphasizes that these norms are not exercised in vacuums but embodied and in physical spaces.
+
+She notes that ""the expectations of the group are implicated in learned habits of feeling and stored in the habitus"" (216). In other words, she expands theories of emotions as reflections of community values to encompass both the body and the habits the body learns from a given community.
+
+
+  Scheer's four genres of overlapping emotional practices shares some similarities with Sara Ahmed's _affective economies_, as each framework stresses emotions as historically specific relational processes rather than internalized, individual psychological experiences.
+
+
+Monique Scheer, ""Are Emotions a Kind of Practices? A Bourdieuian Approach to Understanding Emotion,"" _History and Theory_ 51 (2012): 193-220.",
