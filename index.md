@@ -3,17 +3,11 @@ layout: index
 title: Home
 ---
 
-{% assign lang = site.data.languages[site.telar_language] | default: site.data.languages.en %}
-<!--
-  EN: Default welcome content for this page comes from your language
-  pack (lang.index_page.welcome in _data/languages/<telar_language>.yml).
-  To replace it with your own, delete the line that follows and write
-  your welcome content here in markdown.
+#### The Thirteen Club
 
-  ES: El contenido de bienvenida predeterminado de esta página viene
-  del paquete de idioma (lang.index_page.welcome en _data/languages/<telar_language>.yml).
-  Para reemplazarlo con el tuyo, borra la línea que sigue y escribe
-  tu contenido de bienvenida aquí en markdown.
--->
+On January 13th, 1882, thirteen men gathered in a New York City dining room, passed under a ladder to reach their seats, spilled salt (without tossing it over their shoulders), and sat down for a meal together to prove a point. The Thirteen Club, founded by Civil War veteran Captain William Fowler, was a deliberately provocative men's club dedicated to debunking superstition through ritualized defiance. The Club promised to "combat injurious superstitions, more particularly the belief that thirteen people sitting at the festive board entails death on one or more of the participants before the expiration of a year."
 
-{{ lang.index_page.welcome | markdownify }}
+Composed of well-to-do gentlemen of the middle and upper classes of New York City, the Thirteen Club gained infamy in their first decade of operation by engaging in humorous experiments, spectacles, and rhetorics to discredit superstitions.
+
+How and in what ways did the Club deploy humor not only as a tool for reforming public beliefs, but also as an arena of identity formation? The vignettes below explore this question by drawing on the field of emotions studies. You can find more information on notable approaches to the study of emotions in history in the glossary.
+

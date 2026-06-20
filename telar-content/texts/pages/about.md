@@ -1,8 +1,17 @@
 ---
-title: About
+title: "About"
 ---
 
-# About Telar
+### History of Emotions 
+
+
+
+
+#### About the author 
+Catalina Biesman-Simons is a graduate student at the History Department of University of California, Santa Barbara who works on late 19th and early 20th century US cultural history.
+
+
+#### About the platform, Telar
 
 Telar (Spanish for "loom") is a static site generator built on Jekyll for digital storytelling and publishing small digital collections. It weaves IIIF images, video, audio, narrative text, and contextual layers into interactive visual exhibitions, with a card-stacking architecture, fluid scroll navigation, deep linking, and shareable URLs. It follows minimal computing principles: plain text authoring, static generation, and free hosting on GitHub Pages.
 
