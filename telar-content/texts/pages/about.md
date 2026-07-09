@@ -2,9 +2,6 @@
 title: "About"
 ---
 
-### History of Emotions 
-
-
 
 
 #### About the author 

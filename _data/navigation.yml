@@ -5,3 +5,6 @@ menu:
   - title_en: "Glossary"
     titulo_es: "Glosario"
     url: /glossary/
+  - title_en: "Sources"
+    titulo_es: "Sources"
+    url: /sources/
