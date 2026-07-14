@@ -1,6 +1,8 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,13clubtimept1,0.5,0.5,1,,,,,,,,,,,
-2,13club1907cartoon10,0.5,0.5,0.67,,,,,,,,,,,
-3,13club1895cover,0.5142575765718737,0.43943025051770596,1.0050000000000001,,,,,,,,,,,
+1,13clubtimept1,0.5,0.5,1,,The Thirteen Club in Time,"The Club was established in 1882--a mere twelve years after the final Reconstruction Amendment passed in 1870 which granted Black men the right to vote. Why does this matter for our understanding of the Club's sense of humor? 
+
+The Club emerged just as Jim Crow was taking a firm grip of the country in the wake of Reconstruction. Rising immigration and increasing pressure from the women's suffrage movement further shaped the landscape in which these men criticized these demographics for their alleged predisposition to superstitious belief. ",,,,,,,,
+2,13club1907cartoon10,0.5,0.5,0.67,,Freedmen and superstition,,,,,,,,,
+3,13club1907cartoon2,0.4989006587727193,0.49405128994514225,0.9,,,,,,,,,,,
 4,13clubjimcrow1908,0.5092050604229607,0.17242860685941036,2.25,,,,,,,,,,,
