@@ -1,8 +1,8 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,13clubtimept1,0.5,0.5,1,,The Thirteen Club in Time,"The Club was established in 1882--a mere twelve years after the final Reconstruction Amendment passed in 1870 which granted Black men the right to vote. Why does this matter for our understanding of the Club's sense of humor? 
+1,13clubtimept1,0.5,0.5,1,,humor and citizenship,"The Club emerged just as Jim Crow was taking a firm grip of the country in the wake of Reconstruction. Rising immigration and increasing pressure from the women's suffrage movement further shaped the landscape in which these men criticized these demographics for their alleged predisposition to superstitious beliefs. 
 
-The Club emerged just as Jim Crow was taking a firm grip of the country in the wake of Reconstruction. Rising immigration and increasing pressure from the women's suffrage movement further shaped the landscape in which these men criticized these demographics for their alleged predisposition to superstitious belief. ",,,,,,,,
-2,13club1907cartoon10,0.5,0.5,0.67,,Freedmen and superstition,,,,,,,,,
-3,13club1907cartoon2,0.4989006587727193,0.49405128994514225,0.9,,,,,,,,,,,
-4,13clubjimcrow1908,0.5092050604229607,0.17242860685941036,2.25,,,,,,,,,,,
+Club members imagined rational intellectualism--the key to humor in their view--as the exclusive province of White manhood. This logic had a pointed implication. The capacity for humor was not a universal human trait but a racial and gendered one. For the Club, humor served as one among several indicators of civic fitness.",,Learn more,jim-crow-and-rvqw-locating-the-club.md,,,,,
+2,13club1907cartoon10,0.5,0.5,0.67,,Freedmen and superstition,"Club members mobilized and circulated humor in their effort to discredit superstitions, and more importantly, to discredit the people who they alleged *believed* in superstitions. By generating a racial and gendered affective economy in which humor was exclusive to White intellectual men, and making superstitions and superstitious people the object of their humor, the Club crafted an argument for who could be trusted with the independent reasoning needed for self-governance. ",,,,,,,,
+3,13clubjimcrowcartoon19072,0.4989006587727193,0.49405128994514225,0.9,,,,,,,,,,,
+4,13clubjimcrow1908,0.5092050604229607,0.17242860685941036,2.25,,Is racism a form of superstition?,,,,,,,,,
