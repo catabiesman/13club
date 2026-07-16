@@ -7,13 +7,16 @@ title: "Sources"
 #### Story 1: Meet the Club 
 
 
-#### Story 2: Humor as weapon 
+#### Story 2: Dining with the Club 
 
 
-#### Story 3: Jim Crow and Superstition 
+#### Story 3: Humor as weapon 
 
 
-#### Story 4: "The prevalence of superstition in the female mind"
+#### Story 4: Jim Crow and Superstition 
+
+
+#### Story 5: "The prevalence of superstition in the female mind"
 
 
 ### Selected Bibliography 
