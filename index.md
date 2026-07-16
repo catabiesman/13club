@@ -3,7 +3,7 @@ layout: index
 title: Home
 ---
 
-#### The Thirteen Club
+#### The New York City Thirteen Club
 
 On January 13th, 1882, thirteen men gathered in a New York City dining room, passed under a ladder to reach their seats, spilled salt (without tossing it over their shoulders), and sat down for a meal together to prove a point. The Thirteen Club, founded by Civil War veteran Captain William Fowler, was a deliberately provocative men's club dedicated to debunking superstition through ritualized defiance. The Club promised to "combat injurious superstitions, more particularly the belief that thirteen people sitting at the festive board entails death on one or more of the participants before the expiration of a year."
 
