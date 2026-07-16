@@ -2,7 +2,13 @@
 title: "grappling with superstition and class"
 ---
 
-The poem, written in Captain Jack Crawford's signature lower class dialect prose, begins with Southwestern men in a saloon agreeing to form a Thirteen Club of their own "jes' like those New York blokes," and ends with all 13 men experiencing absurdly bad luck and giving into superstitious belief after all. Several of the poem's victims suffer absurd injury (physical and financial), while others comedically lose their wives or girlfriends to other men. This kind of humor served ridiculed the working class men that Club members imagined as vulnerable to superstition by denying them access to classical indicators of masculine prowess: physical strength, financial prosperity, and access to women.
+Club rhetoric often imagined working class men as particularly vulnerable to superstition. They associated masculine rationalism with capitalist prosperity--their own area of expertise as lawyers and businessmen--and decried those foolish employees who might refuse $13 wages in favor of $12.
+
+The poem pictured here was commissioned by the Club from famed poet of the American West, Captain Jack Crawford. 
+
+
+#### The Quartzville Thirteen Club
+The poem, written in Crawford's signature lower-class dialect prose, begins with Southwestern men in a saloon agreeing to form a Thirteen Club of their own "jes' like those New York blokes," and ends with all 13 men experiencing absurdly bad luck and giving into superstitious belief after all. Several of the poem's victims suffer absurd injury (physical and financial), while others comedically lose their wives or girlfriends to other men. This kind of humor served ridiculed the working class men that Club members imagined as vulnerable to superstition by denying them access to classical indicators of masculine prowess: physical strength, financial prosperity, and access to women.
 
 However, the poem's humor can also help us make sense of how the Club wished to imagine themselves. Where bad luck ruins the lives of the working-class men in Crawford's poem, it depicts the New York Club beating superstition in a "bold, defiant" physical fight. Through Crawford's poem, the Club "grappled superstition by the bosom o' the pants" and accessed the emergent ideals of muscular masculinity without soiling their black coats and top hats in a true saloon brawl. Through the poem, the Club enjoyed a vicarious taste of carnal masculinity likely alien to the medical doctors, judges, and wealthy state senators on the early member lists. 
 
