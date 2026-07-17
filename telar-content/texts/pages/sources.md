@@ -6,18 +6,74 @@ title: "Sources"
 
 #### Story 1: Meet the Club 
 
+The New York Times, "Death of Justice David M'Adam," _The New York Times_, December 23, 1901.
+
+The New York Times, "Many Mourn at Bier of Justice M'Adam," _The New York Times_, December 25, 1901.
+
+The New York Times, "Thirteen Club Braves Everything," _The New York Times_, July 14, 1907.
+
+_Portrait of Judge David McAdam,_ featured in: Moses King, _Notable New Yorkers of 1896-1899_, (1899), 72.
+
+Thirteen Club, "Constitution and By-Laws of the Thirteen Club, New York U.S.A." New York: James Kempster Print, 1882. Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara.
+
+Thirteen Club, "Third Annual Report of The Officers of The Thirteen Club," (James Kempster Print, 1885), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 34.
 
 #### Story 2: Dining with the Club 
 
+_Placemat with menu for the 1887 Annual Meeting,_ (James Kempster Print, 1887), Thirteen Club ephemera, Box 2. Special Research Collections, UC Santa Barbara.
+
+The Standard Union. "Thirteen Club Dines: Skulls for Souvenirs." The Standard Union (Brooklyn), October 14, 1904.
+
+Thirteen Club, "Constitution and By-Laws of the Thirteen Club, New York U.S.A." New York: James Kempster Print, 1882. Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara.
+
+Thirteen Club, "First Annual and Thirteenth Regular Meeting of the Thirteen Club," (Pusey & Rooney, Steam Printers, 1883), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, cover.
+
+Thirteen Club, _One Hundred and Seventy Fifth Regular and Annual Ladies' Roof Garden Dinner_, (1899). [https://digitalcollections.nypl.org/items/1eab50f0-c534-012f-2a0f-58d385a7bc34?canvasIndex=0](https://digitalcollections.nypl.org/items/1eab50f0-c534-012f-2a0f-58d385a7bc34?canvasIndex=0)
+
+Thirteen Club, _Thirteen Club's Simplified Spelling Book_, (1906), 3-8. [https://digitalcollections.nypl.org/items/7a127140-c540-012f-eae0-58d385a7bc34?canvasIndex=2](https://digitalcollections.nypl.org/items/7a127140-c540-012f-eae0-58d385a7bc34?canvasIndex=2)
+
+_Wine menu of a Thirteen Club dinner,_ Thirteen Club ephemera, Box 2. Special Research Collections, UC Santa Barbara.
 
 #### Story 3: Humor as weapon 
+
+Thirteen Club, "Fifth Annual Report," (1886), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 6-7.
+
+Thirteen Club, "Ninth Annual Report of The Officers of The Thirteen Club," (James Kempster Print, 1891), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, cover.
+
+Thirteen Club, "Seventh Annual Report," (1889), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 24-25.
+
+Thirteen Club, _Thirteen Club Washington Trip_, (1907), , 7. [https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3](https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3)
+
+Paul Carus, "On the Philosophy of Laughing," _The Monist_ 8, no. 2 (1898), 252.
+
+G. Stanley Hall and Arthur Allin, "The Psychology of Tickling, Laughing, and the Comic," _The American Journal of Psychology_ 9, no. 1 (1897).
+
+The World, "Queer Clubs of New York," _The World_ (New York), June 19, 1893.
 
 
 #### Story 4: Jim Crow and Superstition 
 
+New York Tribune, "LEAVE OUT THE NEGRO: No Black Man Present at Thirteen Club's Race Prejudice Talk," _New York Tribune,_ February 14, 1908.
+
+Thirteen Club, _Thirteen Club Washington Trip_, (1907), , 10. [https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3](https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3)
+
+Thirteen Club, "Fifth Annual Report," (1886), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 23.
+
+Thirteen Club, "Ninth Annual Report of The Officers of The Thirteen Club," (New York: James Kempster Print, 1891), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 33.
 
 #### Story 5: "The prevalence of superstition in the female mind"
 
+N. Currier (Firm). _Mrs. Fish and the Misses Fox: the original mediums of the mysterious noises at Rochester Western, N.Y._ c. 1852. Lithograph. [https://www.loc.gov/pictures/item/2002710596/](https://www.loc.gov/pictures/item/2002710596/).
+
+The New York Times. "Ladies Defy Superstition." _The New York Times_ (New York), November 14, 1893. Accessed January 27, 2026. [https://timesmachine.nytimes.com/timesmachine/1893/11/14/109269548.pdf?pdf\_redirect=true&ip=0](https://timesmachine.nytimes.com/timesmachine/1893/11/14/109269548.pdf?pdf_redirect=true&ip=0).
+
+Thirteen Club, "First Annual and Thirteenth Regular Meeting," (1883), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 12-13.
+
+Thirteen Club, "Ninth Annual Report of The Officers of The Thirteen Club," (James Kempster Print, 1891), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara.
+
+Thirteen Club, _Thirteen Club Washington Trip_, (1907), , 10. [https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3](https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3)
+
+Thirteen Club, _One Hundred and Seventy Fifth Regular and Annual Ladies' Roof Garden Dinner_, (1899). [https://digitalcollections.nypl.org/items/1eab50f0-c534-012f-2a0f-58d385a7bc34?canvasIndex=0](https://digitalcollections.nypl.org/items/1eab50f0-c534-012f-2a0f-58d385a7bc34?canvasIndex=0)
 
 ### Selected Bibliography 
 ###### in emotions studies ...
