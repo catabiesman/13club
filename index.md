@@ -9,5 +9,5 @@ On January 13th, 1882, thirteen men gathered in a New York City dining room, pas
 
 Composed of well-to-do gentlemen of the middle and upper classes of New York City, the Thirteen Club gained infamy in their first decade of operation by engaging in humorous experiments, spectacles, and rhetorics to discredit superstitions.
 
-How and in what ways did the Club deploy humor not only as a tool for reforming public beliefs, but also as an arena of identity formation? The vignettes below explore this question by drawing on Sara Ahmed's concept of _affective economies_. 
+How and in what ways did the Club deploy humor not only as a tool for reforming public beliefs, but also as an arena of identity formation? The vignettes below explore this question by drawing on Sara Ahmed's concept of _affective economies_. Reading them in the order provided is recommended. 
 

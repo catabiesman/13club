@@ -24,7 +24,7 @@ _Placemat with menu for the 1887 Annual Meeting,_ (James Kempster Print, 1887), 
 
 The Standard Union. "Thirteen Club Dines: Skulls for Souvenirs." The Standard Union (Brooklyn), October 14, 1904.
 
-Thirteen Club, "Constitution and By-Laws of the Thirteen Club, New York U.S.A." New York: James Kempster Print, 1882. Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara.
+Thirteen Club, "Constitution and By-Laws of the Thirteen Club, New York U.S.A." (James Kempster Print, 1882), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara.
 
 Thirteen Club, "First Annual and Thirteenth Regular Meeting of the Thirteen Club," (Pusey & Rooney, Steam Printers, 1883), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, cover.
 
@@ -42,7 +42,7 @@ Thirteen Club, "Ninth Annual Report of The Officers of The Thirteen Club," (Jame
 
 Thirteen Club, "Seventh Annual Report," (1889), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 24-25.
 
-Thirteen Club, _Thirteen Club Washington Trip_, (1907), , 7. [https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3](https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3)
+Thirteen Club, _Thirteen Club Washington Trip_, (1907), 7. [https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3](https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3)
 
 Paul Carus, "On the Philosophy of Laughing," _The Monist_ 8, no. 2 (1898), 252.
 
@@ -55,7 +55,7 @@ The World, "Queer Clubs of New York," _The World_ (New York), June 19, 1893.
 
 New York Tribune, "LEAVE OUT THE NEGRO: No Black Man Present at Thirteen Club's Race Prejudice Talk," _New York Tribune,_ February 14, 1908.
 
-Thirteen Club, _Thirteen Club Washington Trip_, (1907), , 10. [https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3](https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3)
+Thirteen Club, _Thirteen Club Washington Trip_, (1907), 10. [https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3](https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3)
 
 Thirteen Club, "Fifth Annual Report," (1886), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 23.
 
@@ -71,7 +71,9 @@ Thirteen Club, "First Annual and Thirteenth Regular Meeting," (1883), Thirteen C
 
 Thirteen Club, "Ninth Annual Report of The Officers of The Thirteen Club," (James Kempster Print, 1891), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara.
 
-Thirteen Club, _Thirteen Club Washington Trip_, (1907), , 10. [https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3](https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3)
+Thirteen Club, "Sixth Annual Report of The Thirteen Club," (James Kempster Print, 1888), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 6-7.
+
+Thirteen Club, _Thirteen Club Washington Trip_, (1907), 2 and 10. [https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3](https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3)
 
 Thirteen Club, _One Hundred and Seventy Fifth Regular and Annual Ladies' Roof Garden Dinner_, (1899). [https://digitalcollections.nypl.org/items/1eab50f0-c534-012f-2a0f-58d385a7bc34?canvasIndex=0](https://digitalcollections.nypl.org/items/1eab50f0-c534-012f-2a0f-58d385a7bc34?canvasIndex=0)
 
