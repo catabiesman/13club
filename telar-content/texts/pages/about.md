@@ -3,8 +3,7 @@ title: "About"
 ---
 
 
-
-#### About the author 
+##### About the author 
 Catalina Biesman-Simons is a graduate student at the History Department of University of California, Santa Barbara who works on late 19th and early 20th century US cultural history.
 
 
