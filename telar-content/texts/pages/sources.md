@@ -43,7 +43,9 @@ Thirteen Club, "Fifth Annual Report," (1886), Thirteen Club ephemera, Box 1. Spe
 
 Thirteen Club, "Ninth Annual Report of The Officers of The Thirteen Club," (James Kempster Print, 1891), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, cover.
 
-Thirteen Club, "Sixth Annual Report," (James Kempster Print, 1888), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 8-11.
+Thirteen Club, "Sixth Annual Report," (James Kempster Print, 1888), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 7-11.
+
+Thirteen Club, "Second Annual Report," (James Kempster Print, 1884), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 20.
 
 Thirteen Club, "Seventh Annual Report," (James Kempster Print, 1889), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 21, 24-25.
 
