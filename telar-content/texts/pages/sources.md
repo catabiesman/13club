@@ -3,6 +3,9 @@ title: "Sources"
 ---
 
 ### END NOTES
+#### Home page
+
+Thirteen Club, "Constitution and By-Laws of the Thirteen Club, New York U.S.A." (James Kempster Print, 1882), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara.
 
 #### Story 1: Meet the Club 
 
@@ -14,7 +17,7 @@ The New York Times, "Thirteen Club Braves Everything," _The New York Times_, Jul
 
 _Portrait of Judge David McAdam,_ featured in: Moses King, _Notable New Yorkers of 1896-1899_, (1899), 72.
 
-Thirteen Club, "Constitution and By-Laws of the Thirteen Club, New York U.S.A." New York: James Kempster Print, 1882. Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara.
+Thirteen Club, "Constitution and By-Laws of the Thirteen Club, New York U.S.A." (James Kempster Print, 1882), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara.
 
 Thirteen Club, "Third Annual Report of The Officers of The Thirteen Club," (James Kempster Print, 1885), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 34.
 
@@ -40,7 +43,9 @@ Thirteen Club, "Fifth Annual Report," (1886), Thirteen Club ephemera, Box 1. Spe
 
 Thirteen Club, "Ninth Annual Report of The Officers of The Thirteen Club," (James Kempster Print, 1891), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, cover.
 
-Thirteen Club, "Seventh Annual Report," (1889), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 24-25.
+Thirteen Club, "Sixth Annual Report," (James Kempster Print, 1888), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 8-11.
+
+Thirteen Club, "Seventh Annual Report," (James Kempster Print, 1889), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 21, 24-25.
 
 Thirteen Club, _Thirteen Club Washington Trip_, (1907), 7. [https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3](https://digitalcollections.nypl.org/items/52d39840-c541-012f-65ec-58d385a7bc34?canvasIndex=3)
 
