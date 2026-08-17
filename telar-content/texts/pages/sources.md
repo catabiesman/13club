@@ -19,6 +19,8 @@ _Portrait of Judge David McAdam,_ featured in: Moses King, _Notable New Yorkers 
 
 Thirteen Club, "Constitution and By-Laws of the Thirteen Club, New York U.S.A." (James Kempster Print, 1882), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara.
 
+Thirteen Club, "Second Annual Report," (James Kempster Print, 1884), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 17.
+
 Thirteen Club, "Third Annual Report of The Officers of The Thirteen Club," (James Kempster Print, 1885), Thirteen Club ephemera, Box 1. Special Research Collections, UC Santa Barbara, 34.
 
 #### Story 2: Dining with the Club 
